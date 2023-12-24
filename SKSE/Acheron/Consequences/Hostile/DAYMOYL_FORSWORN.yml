@@ -1,0 +1,18 @@
+Version: 2
+
+Name: "[DAYMOYL] Forsworn Quest"
+Quest: 0x1F576|daymoyl.esm
+
+Priority: 1
+Cooldown: 0
+Teleport: true
+InCombat: true
+Hidden: false
+
+Conditions:
+    Assailant:
+        Faction:
+            - 0x43599|Skyrim.esm
+    Quest:
+        Running:
+            - 0x205D3|daymoyl.esm: false

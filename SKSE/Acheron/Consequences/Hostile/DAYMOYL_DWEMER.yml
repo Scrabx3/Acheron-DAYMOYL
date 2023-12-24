@@ -1,0 +1,16 @@
+Version: 2
+
+Name: "[DAYMOYL] Dwemer Quest"
+Quest: 0x3376|daymoyl.esm
+
+Priority: 1
+Cooldown: 0
+Teleport: true
+InCombat: true
+Hidden: false
+
+Conditions:
+    Assailant:
+        Faction:
+            - 0x43598|Skyrim.esm
+

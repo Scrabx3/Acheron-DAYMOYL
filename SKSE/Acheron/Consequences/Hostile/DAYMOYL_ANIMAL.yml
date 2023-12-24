@@ -1,0 +1,16 @@
+Version: 2
+
+Name: "[DAYMOYL] Animal Quest"
+Quest: 0x12C7|daymoyl.esm
+
+Priority: 1
+Cooldown: 0
+Teleport: true
+InCombat: true
+Hidden: false
+
+Conditions:
+    Assailant:
+        Faction:
+            - 0x2E893|Skyrim.esm
+

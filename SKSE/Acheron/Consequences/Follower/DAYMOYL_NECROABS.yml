@@ -1,0 +1,10 @@
+Version: 2
+
+Name: $DAYMOYL_QST_NECROABS
+Quest: 0x02F31F|daymoyl.esm
+
+Priority: 0
+Cooldown: 0
+Teleport: false
+InCombat: true
+Hidden: false

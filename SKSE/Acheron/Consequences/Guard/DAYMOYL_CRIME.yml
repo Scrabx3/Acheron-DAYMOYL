@@ -1,0 +1,15 @@
+Version: 2
+
+Name: $DAYMOYL_QST_CRIME
+Quest: 0x19421|Example.esp
+
+Priority: 1
+Cooldown: 0
+Teleport: false
+InCombat: false
+Hidden: false
+
+Conditions:
+    Assailant:
+        RaceType:
+            - Human

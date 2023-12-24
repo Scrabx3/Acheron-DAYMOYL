@@ -1,0 +1,17 @@
+Version: 2
+
+Name: "[DAYMOYL] Bandit Quest"
+Quest: 0x22F4|daymoyl.esm
+
+Priority: 1
+Cooldown: 0
+Teleport: true
+InCombat: true
+Hidden: false
+
+Conditions:
+    Assailant:
+        RaceType:
+            - Human
+        CrimeFaction:
+            - none
